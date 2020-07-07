@@ -1,0 +1,11 @@
+# PHP-Form-handling-source
+This code is for you if you are looking for a PHP form handling source that can allow you to:
+RESET PASSWORD, FORGOT PASSWORD, CREATE NEW PASSWORD, LOGIN AND LOGOUT.
+
+PLEASE NOTE THAT YOU'LL HAVE TO CHANGE THE "include sessions" part and CREATE YOU OWN DATABASE.
+
+ALSO SEE THE CONN.PHP FILE.
+
+IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME batsie7@gmail.com
+
+LEAVE A COMMENT IF YOU LOVED MY WORK
